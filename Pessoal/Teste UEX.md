@@ -16,7 +16,7 @@
 - [x]  Validação de:
     - [x]  E-mail único (não permitir e-mails repetidos)
 - [x]  Armazenar usuário no banco local (SharedPreferences, SQLite ou LocalStorage)
-- [ ]  Feedback de sucesso/erro no cadastro
+- [x]  Feedback de sucesso/erro no cadastro
 
 ### Login (Sign In)
 
