@@ -13,8 +13,8 @@
     - [x]  Nome completo
     - [x]  E-mail
     - [x]  Senha
-- [ ]  Validação de:
-    - [ ]  E-mail único (não permitir e-mails repetidos)
+- [x]  Validação de:
+    - [x]  E-mail único (não permitir e-mails repetidos)
 - [x]  Armazenar usuário no banco local (SharedPreferences, SQLite ou LocalStorage)
 - [ ]  Feedback de sucesso/erro no cadastro
 
